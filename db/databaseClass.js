@@ -17,3 +17,15 @@ class Database {
         } catch (error) {
             throw error;
         }
+    }
+// code for adding a new note 
+async addNote(data) {
+    try {
+        await writeFileAsync(noteData, JSON.stringify(data, null, "\t")).then(() => {
+            console.log("New note added");
+        }
+        );
+    } catch (error) {
+        throw error;
+    }
+}
