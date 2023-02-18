@@ -29,3 +29,17 @@ async addNote(data) {
         throw error;
     }
 }
+ // code for deleting a note
+ async deleteNote(data) {
+    try {
+        await writeFileAsync(noteData, JSON.stringify(data, null, '\t'))
+            .then(() => {
+                console.log('Deleted note');
+            });
+    } catch (error) {
+        throw error;
+    }
+}
+}
+
+module.exports = new Database();
