@@ -26,8 +26,8 @@ I have included a video demonstration as I could not get my application to deplo
 Ben Ropa
 
 ## Contact
-benropa@outlook.com
-https://github.com/benropa
+### benropa@outlook.com
+### https://github.com/benropa
 
 ## License
 MIT License
