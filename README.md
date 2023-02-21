@@ -19,7 +19,7 @@ The goal for my project is to have a user open the Heroku link to test out the c
 ## Video
 I have included a video demonstration as I could not get my application to deploy in Heroku.
 
-
+[Untitled_ Feb 20, 2023 8_15 PM.webm](https://user-images.githubusercontent.com/117046452/220230707-f4b28a39-2240-4ff9-a8da-b0b5e5fc6045.webm)
 
 
 ## Credits
