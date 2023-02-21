@@ -16,8 +16,6 @@ The goal for my project is to have a user open the Heroku link to test out the c
 
 ### Deployed Application: https://bens-ez-note-taker.herokuapp.com/
 
-### http://localhost:3001/
-
 ## Video
 I have included a video demonstration as I could not get my application to deploy in Heroku.
 
